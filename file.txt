@@ -5,6 +5,4 @@ devops
 
 chakri
 
-suneel
 
-charan
